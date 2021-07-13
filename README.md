@@ -27,4 +27,7 @@ Any of the below ones can be used, use the best after trying both based on your 
 cascadeH5.xml<br>
 haarcascade_frontalface_default.xml
 
+<h3>Note:</h3>
+Dont forget to change paths of files, according to your pc, mentioned in comments in the code.
+
 <h3>For any help or errors, comment on this repositoy</h3>
