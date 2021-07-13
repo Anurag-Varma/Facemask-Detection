@@ -27,6 +27,12 @@ Any of the below ones can be used, use the best after trying both based on your 
 cascadeH5.xml<br>
 haarcascade_frontalface_default.xml
 
+<h3>Demo:</h3>
+
+https://user-images.githubusercontent.com/62068859/125494845-204e150d-df83-4d86-b4d6-89d57a10a9af.mp4
+
+
+
 <h3>Note:</h3>
 Dont forget to change paths of files, according to your pc, mentioned in comments in the code.
 
